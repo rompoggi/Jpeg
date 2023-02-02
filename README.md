@@ -1,0 +1,2 @@
+# Jpeg
+Jpeg compression algorithm
